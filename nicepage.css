@@ -42871,6 +42871,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-text-1 {
+  font-size: 1rem;
   margin: 30px auto 0 10px;
 }
 
@@ -42925,19 +42926,23 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-btn-3 {
-  background-image: none;
+  border-style: solid;
+  padding: 0;
 }
 
 .u-footer .u-btn-4 {
-  background-image: none;
+  border-style: solid;
+  padding: 0;
 }
 
 .u-footer .u-btn-5 {
-  background-image: none;
+  border-style: solid;
+  padding: 0;
 }
 
 .u-footer .u-btn-6 {
-  background-image: none;
+  border-style: solid;
+  padding: 0;
 }
 
 .u-footer .u-layout-cell-3 {
@@ -42987,7 +42992,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-btn-9 {
-  background-image: none;
+  border-style: solid;
+  padding: 0;
 }
 
 .u-footer .u-layout-cell-4 {
@@ -43042,7 +43048,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-btn-13 {
-  background-image: none;
+  border-style: solid;
+  padding: 0;
 }
 
 .u-footer .u-layout-cell-5 {
@@ -43073,15 +43080,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-btn-14 {
-  background-image: none;
+  border-style: solid;
+  padding: 0;
 }
 
 .u-footer .u-btn-15 {
-  background-image: none;
+  border-style: solid;
+  padding: 0;
 }
 
 .u-footer .u-btn-16 {
-  background-image: none;
+  border-style: solid;
+  padding: 0;
 }
 
 .u-footer .u-text-16 {
@@ -43147,7 +43157,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-6 {
-    margin-left: 0;
     margin-right: 0;
   }
 
@@ -43383,36 +43392,8 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: 36px;
   }
 
-  .u-footer .u-btn-3 {
-    border-style: solid;
-    padding: 0;
-  }
-
-  .u-footer .u-btn-4 {
-    border-style: solid;
-    padding: 0;
-  }
-
-  .u-footer .u-btn-5 {
-    border-style: solid;
-    padding: 0;
-  }
-
-  .u-footer .u-btn-6 {
-    border-style: solid;
-    padding: 0;
-  }
-
-  .u-footer .u-btn-9 {
-    padding: 0;
-  }
-
   .u-footer .u-layout-cell-4 {
     min-height: 279px;
-  }
-
-  .u-footer .u-btn-13 {
-    padding: 0;
   }
 
   .u-footer .u-layout-cell-5 {
@@ -43429,18 +43410,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-line-4 {
     margin-right: auto;
-  }
-
-  .u-footer .u-btn-14 {
-    padding: 0;
-  }
-
-  .u-footer .u-btn-15 {
-    padding: 0;
-  }
-
-  .u-footer .u-btn-16 {
-    padding: 0;
   }
 
   .u-footer .u-text-16 {
