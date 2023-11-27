@@ -17,8 +17,8 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-weight: 700;
   font-size: 3rem;
+  font-weight: 700;
   margin: 0 1px;
 }
 
@@ -360,6 +360,7 @@
 .u-section-3 .u-text-3 {
   font-weight: 600;
   line-height: 1.8;
+  font-size: 1.125rem;
   margin: 50px 0 0;
 }
 
@@ -391,6 +392,7 @@
 .u-section-3 .u-text-5 {
   font-weight: 600;
   line-height: 1.8;
+  font-size: 1.125rem;
   margin: 50px 0 0;
 }
 
@@ -421,6 +423,7 @@
 .u-section-3 .u-text-7 {
   font-weight: 600;
   line-height: 1.8;
+  font-size: 1.125rem;
   margin: 50px 0 0;
 }
 
@@ -431,18 +434,6 @@
 
   .u-section-3 .u-repeater-1 {
     min-height: 321px;
-  }
-
-  .u-section-3 .u-text-3 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-3 .u-text-5 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-3 .u-text-7 {
-    font-size: 1.125rem;
   }
 }
 
