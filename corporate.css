@@ -400,7 +400,6 @@
 
 .u-section-4 .u-text-2 {
   font-size: 1.25rem;
-  line-height: 1.2;
   font-weight: 400;
   margin: 20px 0 0;
 }
@@ -426,6 +425,10 @@
 
   .u-section-4 .u-layout-cell-1 {
     min-height: 338px;
+  }
+
+  .u-section-4 .u-text-2 {
+    line-height: 1.2;
   }
 
   .u-section-4 .u-image-1 {
@@ -589,7 +592,7 @@
 
 .u-section-5 .u-image-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/16610b3bd3074cafb9cdfa1315c7be5d57521443450ffad342ed0a022d4fc14718717381e9a8d8d83d3b284f61f2ed35bbb9fb1e4e793398b0f596_1280.jpg");
-  background-position: 50% 50%;
+  background-position: 100% 50%;
 }
 
 .u-section-5 .u-container-layout-4 {
