@@ -625,6 +625,11 @@
     font-size: 1.875rem;
   }
 
+  .u-section-4 .u-text-2 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
   .u-section-4 .u-image-1 {
     min-height: 366px;
   }
